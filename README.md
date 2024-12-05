@@ -1,4 +1,5 @@
 # Lane Detection Project
+![image](https://github.com/user-attachments/assets/4b0c36a8-7478-421a-a24b-76b22bb34dbb)
 
 ## Description
 This project implements a lane detection algorithm using edge detection and the Hough Transform to identify road lane boundaries. The algorithm processes a video frame by frame, detects lane lines, and overlays them on the video output with a green trapezoid highlighting the drivable region.
